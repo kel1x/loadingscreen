@@ -6,9 +6,9 @@ author 'kel1x'
 version '1.0.0'
 
 files {
-    "ui/**/*",
-    'ui/**/*.*',
-    'ui/**/**/*.*'
+    "uipage/**/*",
+    'uipage/**/*.*',
+    'uipage/**/**/*.*'
 }
 
 client_scripts {
@@ -21,7 +21,7 @@ loadscreen_cursor 'yes'
 
 escrow_ignore {
     'client/main.lua',
-    'ui/**/**/*.*'
+    'uipage/**/**/*.*'
 }
 
 lua54 'yes'
