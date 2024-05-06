@@ -11,7 +11,7 @@ Discord: xkel1
 * To change music, navigate folder ui/assets/media
 * Replace file music.mp3 with your song thats named exactly same
 * To adjust volume go into main.js file and change 'music.volume' to your liking :)
-* To change video in backgroud, navigate folder ui/assets/media
+* To change video in background, navigate folder ui/assets/media
 * Replace file video.webm with your video thats named exactyl same
 * Enjoy :)
 
