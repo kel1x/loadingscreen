@@ -15,7 +15,7 @@ client_scripts {
     'client/main.lua',
 }
 
-loadscreen 'ui/index.html'
+loadscreen 'uipage/index.html'
 loadscreen_manual_shutdown "yes"
 loadscreen_cursor 'yes'
 
