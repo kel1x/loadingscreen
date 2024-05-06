@@ -6,22 +6,22 @@ author 'kel1x'
 version '1.0.0'
 
 files {
-    "uipage/**/*",
-    'uipage/**/*.*',
-    'uipage/**/**/*.*'
+    "ui/**/*",
+    'ui/**/*.*',
+    'ui/**/**/*.*'
 }
 
 client_scripts {
     'client/main.lua',
 }
 
-loadscreen 'uipage/index.html'
+loadscreen 'ui/index.html'
 loadscreen_manual_shutdown "yes"
 loadscreen_cursor 'yes'
 
 escrow_ignore {
     'client/main.lua',
-    'uipage/**/**/*.*'
+    'ui/**/**/*.*'
 }
 
 lua54 'yes'
