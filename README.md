@@ -12,7 +12,7 @@ Discord: xkel1
 * Replace file music.mp3 with your song thats named exactly same
 * To adjust volume go into main.js file and change 'music.volume' to your liking :)
 * To change video in background, navigate folder ui/assets/media
-* Replace file video.webm with your video thats named exactyl same
+* Replace file video.webm with your video thats named exactly same
 * Enjoy :)
 
 * Note: Video can be any length ( i can only upload 25mb to github, below is download for original video )
